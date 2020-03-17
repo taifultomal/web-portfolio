@@ -61,7 +61,7 @@ section{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient (180deg, lightsalmon, tomato);
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
 }
 #baby-web{
